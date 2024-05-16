@@ -1,0 +1,13 @@
+.connect_button {
+	font-size: 10pt;
+	background-color: purple;
+	color: white;
+	border: none;
+	padding: none;
+	height: 10pt;
+	border-radius: 5pt;
+}
+
+.health_bar {
+	background: 'red'
+}
